@@ -1,0 +1,12 @@
+.vs
+.vscode
+*.zip
+Makefile-old
+Pics/
+mainGPU-linux
+*.exe
+*randoms.txt
+*.png
+*.ppm
+Reports/
+imagediff.py

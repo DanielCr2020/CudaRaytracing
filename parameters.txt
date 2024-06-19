@@ -1,0 +1,4 @@
+imageWidth=1280
+imageHeight=720
+samplesPerPixel=25
+loopBound=10
